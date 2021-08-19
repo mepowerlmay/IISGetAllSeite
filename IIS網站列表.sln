@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISSiteList", "IISSiteList\IISSiteList.csproj", "{04368A34-DC8C-4DFC-8C88-52906B386252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISHelper", "IISHelper\IISHelper.csproj", "{68206605-87A4-49FA-ADB9-DD6D94B377F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{6B8BF71A-5AC2-4074-ABCD-87A81AF841D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04368A34-DC8C-4DFC-8C88-52906B386252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04368A34-DC8C-4DFC-8C88-52906B386252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04368A34-DC8C-4DFC-8C88-52906B386252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04368A34-DC8C-4DFC-8C88-52906B386252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68206605-87A4-49FA-ADB9-DD6D94B377F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68206605-87A4-49FA-ADB9-DD6D94B377F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68206605-87A4-49FA-ADB9-DD6D94B377F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68206605-87A4-49FA-ADB9-DD6D94B377F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8BF71A-5AC2-4074-ABCD-87A81AF841D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8BF71A-5AC2-4074-ABCD-87A81AF841D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8BF71A-5AC2-4074-ABCD-87A81AF841D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8BF71A-5AC2-4074-ABCD-87A81AF841D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5722EA78-8AD7-43A6-8FCE-35862C0FDCE1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfssvr01.local.show:8080/tfs/ehr
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DTO\\DTO.csproj
+		SccProjectName1 = DTO
+		SccLocalPath1 = DTO
+		SccProjectUniqueName2 = IISHelper\\IISHelper.csproj
+		SccProjectName2 = IISHelper
+		SccLocalPath2 = IISHelper
+		SccProjectUniqueName3 = IISSiteList\\IISSiteList.csproj
+		SccProjectName3 = IISSiteList
+		SccLocalPath3 = IISSiteList
+	EndGlobalSection
+EndGlobal
